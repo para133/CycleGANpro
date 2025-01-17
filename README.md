@@ -1,13 +1,14 @@
 # 方嘉彬+2022214636+智能应用系统设计
-这里是CycleGANpro的
 题目序号 3  
 任务名称：图像的卡通、动漫化风格生成系统
+
+这里是CycleGANpro的模型训练代码
 
 ## 环境搭建
 ### 1. 创建conda环境，实验在python==3.11下进行
 ```
-conda create -n fjb python==3.11
-conda activate fjb
+conda create -n CycleGANpro python==3.11
+conda activate CycleGANpro
 ```
 ### 2. 实验在torch2.1.0+CUDA12.2下进行
 ```
