@@ -1,0 +1,10 @@
+__pycache__/
+/selfie2anime
+/val_selfie2anime_result
+/weights
+/*.jpg
+/*.csv
+/pic_plot.py
+/train_plot.py
+/result
+/train_logs
